@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.2.cpp
+Z:\university\ооп\програми\1.2\UnitTest1.2\UnitTest1.2.cpp(17,24): warning C4101: seconds: неиспользованная локальная переменная
+Z:\university\ооп\програми\1.2\UnitTest1.2\UnitTest1.2.cpp(17,15): warning C4101: minutes: неиспользованная локальная переменная
+Z:\university\ооп\програми\1.2\UnitTest1.2\UnitTest1.2.cpp(17,8): warning C4101: hours: неиспользованная локальная переменная
+     Создается библиотека Z:\university\ооп\програми\1.2\Debug\UnitTest1.2.lib и объект Z:\university\ооп\програми\1.2\Debug\UnitTest1.2.exp
+  UnitTest1.2.vcxproj -> Z:\university\ооп\програми\1.2\Debug\UnitTest1.2.dll
